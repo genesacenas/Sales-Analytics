@@ -1,0 +1,8 @@
+ Start the server:
+
+  Bash
+      python app.py
+
+Open your browser and visit:
+
+  http://127.0.0.1:500
