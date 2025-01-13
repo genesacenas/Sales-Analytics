@@ -1,0 +1,10 @@
+How It Works
+
+1. Homepage (/):
+  - Fetches sales data from the database.
+  - Generatesn an bar chart showing sales by product.
+  - Displays the graph on the page
+2. Analyze Suggestions (/analyze):
+  - Analyzes sales data to identify the top-performing product
+  - Returns actionable insights to increase future sales.
+
