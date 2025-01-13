@@ -62,6 +62,7 @@ if __name__ == "__main__":
     app.run(debug=True)
     
 2. create.py - script for create database
+
 import sqlite3
 
 conn = sqlite3.connect("sales_data.db")
