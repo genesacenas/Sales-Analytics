@@ -1,0 +1,16 @@
+Python Libraries
+
+  Install required libraries:
+    Bash
+      pip install flask matplotlib pandas sqlite3
+
+Directory Structure
+
+  - app
+    - static
+        - sales_graph.png
+    - templates
+        - index.html
+    - app.py
+    - sales_data,db
+    
